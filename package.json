@@ -29,7 +29,7 @@
         "moment": "2.15.x",
         "request": "2.76.x",
         "urlencode": "1.1.x",
-        "xml2json": "0.10.x"
+        "xml2json": "0.12.x"
     },
     "devDependencies": {
         "eslint": "^3.17.1",
